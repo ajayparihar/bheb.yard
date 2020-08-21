@@ -168,6 +168,7 @@ a.main-filled-button {
     font-size: 30px;
     border-radius: 5px;
     padding: 15px 30px;
+    margin-bottom: 10%;
     background-color: #fff;
     color: #000000;
     font-weight: 600;
@@ -311,7 +312,7 @@ banner
 
 .Modern-Slider .item h1 {
     margin-bottom: 30px;
-    margin-top: 150px;
+    margin-top: 100px;
     font-size: 120px;
     font-weight: 800;
     letter-spacing: 10px;
