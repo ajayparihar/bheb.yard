@@ -279,6 +279,7 @@ banner
 .img-fill {
     width: 100%;
     display: block;
+    line-height: 100px;
     overflow: hidden;
     position: relative;
     text-align: center
