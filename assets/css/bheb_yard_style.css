@@ -244,7 +244,7 @@ header
     top: 0px;
     left: 0px;
     right: 0px;
-    z-index: 100;
+    z-index: 1000;
     height: 100px;
     -webkit-transition: all .5s ease 0s;
     -moz-transition: all .5s ease 0s;
